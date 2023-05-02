@@ -1,7 +1,7 @@
 # 概要
 
 - チャットに与えられたUrlからidとtw(視点)を切り出す
-- <https://tenhou.net/5/mjlog2json.cgi?"id"> を活用して牌譜リンクをJsonに変換
+- <https://tenhou.net/5/mjlog2json.cgi?[ここにid]> を活用して牌譜リンクをJsonに変換
 - Jsonを取得
 - 東→南に書き換え
 - 局を＋4して、南場に書き換え
